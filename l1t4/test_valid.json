@@ -1,0 +1,18 @@
+{
+  "flag": true,
+  "myPromises": ["Ford","BMW","Fiat"],
+  "element": {
+    "car1":"Ford",
+    "car2":"BMW",
+    "car3":"Fiat"
+  },
+  "screenshot": null,
+  "elementText": "string",
+  "allElementsText": "const",
+  "counter": 11,
+  "config":"Common",
+  "const":"FiRst",
+  "parameters": ["1","2","3","4","5","6","7","8"],
+  "description": "123455"
+}
+

@@ -1,0 +1,4 @@
+flag: not boolean
+Counter: not a number or not greater than 10
+Parameters: not an array or array length != 8
+Description: not a string or length less than 5 or greater than 13

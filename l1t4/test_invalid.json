@@ -1,0 +1,18 @@
+{
+  "flag": "true3",
+  "myPromises": [],
+  "element": {
+    "car1":"Ford",
+    "car2":"BMW",
+    "car3":"Fiat"
+  },
+  "screenshot": null,
+  "elementText": "string",
+  "allElementsText": "const",
+  "counter": 10,
+  "config":"Common",
+  "const":"FiRst",
+  "parameters": [],
+  "description": "string with length more than 5 but less than 13"
+}
+
